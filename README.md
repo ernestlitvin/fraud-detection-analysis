@@ -30,4 +30,3 @@ The primary goal of this project is to perform an Exploratory Data Analysis (EDA
 - Pandas
 - Seaborn
 - Matplotlib
-- NumPy
