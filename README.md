@@ -24,7 +24,7 @@ The primary goal of this project is to perform an Exploratory Data Analysis (EDA
 ![Proportion of Transactions by Hour (within each group)](images/prop.png) 
 
 3.  **`Merchant_Category` is a Weak but Noticeable Indicator.**
-    - Categories such as `Online Services` and `Travel` exhibit a **disproportionately higher share** of fraudulent transactions compared to their share in legitimate transactions. This marks them as higher-risk categories that may require closer monitoring by fraud detection systems.
+    - Categories such as `Online Services`, `Travel` and `Groceries` exhibit a **disproportionately higher share** of fraudulent transactions compared to their share in legitimate transactions. This marks them as higher-risk categories that may require closer monitoring by fraud detection systems.
 ![Proportion of Transactions by Category](images/prop_by_cat.png) 
 
 ## 4. Tools Used
